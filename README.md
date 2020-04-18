@@ -1,56 +1,56 @@
 # django_customer_base_project
 We will create a full project ( Customer Base ) with all database relationships, image upload and full control on what is happening behind the scenes.
 
-Introduction
+- Introduction
 
-Preparing the environment
+- Preparing the environment
 
-Creating the base of the application ( Customer base app )
+- Creating the base of the application ( Customer base app )
 
-Setup of the Django Rest Framework
+- Setup of the Django Rest Framework
 
-Exposing an API for the Customer Endpoint
+- Exposing an API for the Customer Endpoint
 
-Consuming this API with Google Chrome and Postman
+- Consuming this API with Google Chrome and Postman
 
-Creating the Endpoint for the all entities
+- Creating the Endpoint for the all entities
 
-Personalizing the get_queryset method to provide a list of Customers with filters
+- Personalizing the get_queryset method to provide a list of Customers with filters
 
-Override of the behaviour for the defaults HTTP verbs (Get, Post, Put, Patch, Delete )
+- Override of the behaviour for the defaults HTTP verbs (Get, Post, Put, Patch, Delete )
 
-Creating custom actions
+- Creating custom actions
 
-Using query strings
+- Using query strings
 
-Filtering querysets with DjangoFilter backend
+- Filtering querysets with DjangoFilter backend
 
-Enabling API search
+- Enabling API search
 
-Custom lookup field
+- Custom lookup field
 
-Improving the API security with Tokens
+- Improving the API security with Tokens
 
-Custom permissions per token
+- Custom permissions per token
 
-Nested relationships
+- Nested relationships
 
-OneToOne
+  - OneToOne
 
-ForeignKey
+  - ForeignKey
 
-ManyToMany
+  - ManyToMany
 
-Types of Serializers
+- Types of Serializers
 
-Nested serializers
+  - Nested serializers
 
-Function fields
+  - Function fields
 
-Types of ViewSets
+- Types of ViewSets
 
-Enabling Pagination on your API
+- Enabling Pagination on your API
 
-Deploy on Heroku
+- Deploy on Heroku
 
-Updating versions of the application after deploy on Heroku
+- Updating versions of the application after deploy on Heroku
