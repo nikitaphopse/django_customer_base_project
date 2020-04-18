@@ -1,10 +1,5 @@
 # django_customer_base_project
 We will create a full project ( Customer Base ) with all database relationships, image upload and full control on what is happening behind the scenes.
-
-- Introduction
-
-- Preparing the environment
-
 - Creating the base of the application ( Customer base app )
 
 - Setup of the Django Rest Framework
